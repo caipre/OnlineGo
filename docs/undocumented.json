@@ -1,0 +1,2210 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 23,
+      "symbol": "Authenticate.auth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 24,
+      "symbol": "Authenticate.jwt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 25,
+      "symbol": "Authenticate.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 26,
+      "symbol": "Authenticate.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 32,
+      "symbol": "ChatConnect.auth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 33,
+      "symbol": "ChatConnect.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 34,
+      "symbol": "ChatConnect.ranking",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 35,
+      "symbol": "ChatConnect.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 36,
+      "symbol": "ChatConnect.uiClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 42,
+      "symbol": "ChatJoin.channel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 48,
+      "symbol": "ChatPart.channel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 49,
+      "symbol": "ChatPart.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 55,
+      "symbol": "ChatSend.channel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 56,
+      "symbol": "ChatSend.uuid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 57,
+      "symbol": "ChatSend.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 58,
+      "symbol": "ChatSend.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 60,
+      "symbol": "ChatSend.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 65,
+      "symbol": "ChatSend.professional",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 66,
+      "symbol": "ChatSend.uiClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 72,
+      "symbol": "ChatPM.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 73,
+      "symbol": "ChatPM.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 74,
+      "symbol": "ChatPM.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 80,
+      "symbol": "ChatPMSuperchat.auth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 81,
+      "symbol": "ChatPMSuperchat.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 82,
+      "symbol": "ChatPMSuperchat.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 83,
+      "symbol": "ChatPMSuperchat.enable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 94,
+      "symbol": "GameChat.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 95,
+      "symbol": "GameChat.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 96,
+      "symbol": "GameChat.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 97,
+      "symbol": "GameChat.body",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 103,
+      "symbol": "ReviewChat.reviewId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 104,
+      "symbol": "ReviewChat.from",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 105,
+      "symbol": "ReviewChat.moves",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 112,
+      "symbol": "ChatJoinEvent.channel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 113,
+      "symbol": "ChatJoinEvent.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 118,
+      "symbol": "ChatPartEvent.channel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 128,
+      "symbol": "ChatEvent.channel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 129,
+      "symbol": "ChatEvent.line",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 131,
+      "symbol": "ChatEvent.Line",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 132,
+      "symbol": "ChatEvent.Line.body",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 133,
+      "symbol": "ChatEvent.Line.chatId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 135,
+      "symbol": "ChatEvent.Line.date",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 136,
+      "symbol": "ChatEvent.Line.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 137,
+      "symbol": "ChatEvent.Line.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 138,
+      "symbol": "ChatEvent.Line.professional",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 139,
+      "symbol": "ChatEvent.Line.ranking",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 140,
+      "symbol": "ChatEvent.Line.ratings",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 141,
+      "symbol": "ChatEvent.Line.uiClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 142,
+      "symbol": "ChatEvent.Line.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 151,
+      "symbol": "ChatEvent.Analysis",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 152,
+      "symbol": "ChatEvent.Analysis.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 153,
+      "symbol": "ChatEvent.Analysis.from",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 154,
+      "symbol": "ChatEvent.Analysis.marks",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 155,
+      "symbol": "ChatEvent.Analysis.moves",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 156,
+      "symbol": "ChatEvent.Analysis.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 164,
+      "symbol": "Channel.main",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 165,
+      "symbol": "Channel.malkovich",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 166,
+      "symbol": "Channel.spectator",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 171,
+      "symbol": "ChatUser.country",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 172,
+      "symbol": "ChatUser.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 173,
+      "symbol": "ChatUser.professional",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 175,
+      "symbol": "ChatUser.ranking",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 176,
+      "symbol": "ChatUser.ratings",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 177,
+      "symbol": "ChatUser.uiClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 178,
+      "symbol": "ChatUser.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 183,
+      "symbol": "UiClass.bot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Chat.swift",
+      "line": 184,
+      "symbol": "UiClass.moderator",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 24,
+      "symbol": "GameConnect.chat",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 25,
+      "symbol": "GameConnect.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 26,
+      "symbol": "GameConnect.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 32,
+      "symbol": "GameDisconnect.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 38,
+      "symbol": "GamePause.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 39,
+      "symbol": "GamePause.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 45,
+      "symbol": "GameResume.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 46,
+      "symbol": "GameResume.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 52,
+      "symbol": "GameCancel.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 53,
+      "symbol": "GameCancel.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 59,
+      "symbol": "GameResign.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 60,
+      "symbol": "GameResign.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 66,
+      "symbol": "GameAnnul.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 67,
+      "symbol": "GameAnnul.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 73,
+      "symbol": "GameMove.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 74,
+      "symbol": "GameMove.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 75,
+      "symbol": "GameMove.move",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 81,
+      "symbol": "GameConditionalMoves.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 82,
+      "symbol": "GameConditionalMoves.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 83,
+      "symbol": "GameConditionalMoves.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 84,
+      "symbol": "GameConditionalMoves.cmoves",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 90,
+      "symbol": "GameUndoRequest.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 91,
+      "symbol": "GameUndoRequest.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 92,
+      "symbol": "GameUndoRequest.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 98,
+      "symbol": "GameUndoAccept.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 99,
+      "symbol": "GameUndoAccept.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 100,
+      "symbol": "GameUndoAccept.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 105,
+      "symbol": "GameRemovedStonesSet",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 106,
+      "symbol": "GameRemovedStonesSet.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 107,
+      "symbol": "GameRemovedStonesSet.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 108,
+      "symbol": "GameRemovedStonesSet.removed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 109,
+      "symbol": "GameRemovedStonesSet.stones",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 110,
+      "symbol": "GameRemovedStonesSet.strictSekiMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 115,
+      "symbol": "GameRemovedStonesAccept",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 116,
+      "symbol": "GameRemovedStonesAccept.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 117,
+      "symbol": "GameRemovedStonesAccept.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 118,
+      "symbol": "GameRemovedStonesAccept.stones",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 119,
+      "symbol": "GameRemovedStonesAccept.strictSekiMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 124,
+      "symbol": "GameRemovedStonesReject",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 125,
+      "symbol": "GameRemovedStonesReject.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 126,
+      "symbol": "GameRemovedStonesReject.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 133,
+      "symbol": "ActiveGameEvent",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 134,
+      "symbol": "ActiveGameEvent.black",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 135,
+      "symbol": "ActiveGameEvent.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 136,
+      "symbol": "ActiveGameEvent.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 137,
+      "symbol": "ActiveGameEvent.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 138,
+      "symbol": "ActiveGameEvent.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 139,
+      "symbol": "ActiveGameEvent.paused",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 140,
+      "symbol": "ActiveGameEvent.phase",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 141,
+      "symbol": "ActiveGameEvent.playerToMove",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 142,
+      "symbol": "ActiveGameEvent.private",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 143,
+      "symbol": "ActiveGameEvent.timePerMove",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 144,
+      "symbol": "ActiveGameEvent.white",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 145,
+      "symbol": "ActiveGameEvent.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 151,
+      "symbol": "GameMoveEvent.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 152,
+      "symbol": "GameMoveEvent.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 153,
+      "symbol": "GameMoveEvent.move",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 159,
+      "symbol": "GameConditionalMovesEvent.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 160,
+      "symbol": "GameConditionalMovesEvent.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 161,
+      "symbol": "GameConditionalMovesEvent.moves",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 167,
+      "symbol": "GameUndoRequestedEvent.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 173,
+      "symbol": "GameUndoAcceptedEvent.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 179,
+      "symbol": "GameRemovedStonesEvent.allRemoved",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 180,
+      "symbol": "GameRemovedStonesEvent.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 181,
+      "symbol": "GameRemovedStonesEvent.removed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 182,
+      "symbol": "GameRemovedStonesEvent.stones",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 188,
+      "symbol": "GameRemovedStonesAcceptEvent.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 189,
+      "symbol": "GameRemovedStonesAcceptEvent.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 190,
+      "symbol": "GameRemovedStonesAcceptEvent.stones",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 191,
+      "symbol": "GameRemovedStonesAcceptEvent.strictSekiMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 197,
+      "symbol": "GameResetEvent.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 198,
+      "symbol": "GameResetEvent.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 199,
+      "symbol": "GameResetEvent.gamestartBeep",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 212,
+      "symbol": "GameDataEvent.agaHandicapScoring",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 213,
+      "symbol": "GameDataEvent.allowKo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 214,
+      "symbol": "GameDataEvent.allowSelfCapture",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 215,
+      "symbol": "GameDataEvent.allowSuperko",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 216,
+      "symbol": "GameDataEvent.autoScore",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 217,
+      "symbol": "GameDataEvent.automaticStoneRemoval",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 218,
+      "symbol": "GameDataEvent.blackPlayerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 219,
+      "symbol": "GameDataEvent.clock",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 220,
+      "symbol": "GameDataEvent.conditionalMoves",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 221,
+      "symbol": "GameDataEvent.disableAnalysis",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 222,
+      "symbol": "GameDataEvent.freeHandicapPlacement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 223,
+      "symbol": "GameDataEvent.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 224,
+      "symbol": "GameDataEvent.gameName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 225,
+      "symbol": "GameDataEvent.handicap",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 226,
+      "symbol": "GameDataEvent.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 229,
+      "symbol": "GameDataEvent.initialPlayer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 231,
+      "symbol": "GameDataEvent.initialState",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 232,
+      "symbol": "GameDataEvent.komi",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 233,
+      "symbol": "GameDataEvent.metaGroups",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 234,
+      "symbol": "GameDataEvent.moves",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 236,
+      "symbol": "GameDataEvent.opponentPlaysFirstAfterResume",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 237,
+      "symbol": "GameDataEvent.originalDisableAnalysis",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 238,
+      "symbol": "GameDataEvent.pauseControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 241,
+      "symbol": "GameDataEvent.pauseOnWeekends",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 243,
+      "symbol": "GameDataEvent.phase",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 244,
+      "symbol": "GameDataEvent.players",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 245,
+      "symbol": "GameDataEvent.private",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 246,
+      "symbol": "GameDataEvent.ranked",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 247,
+      "symbol": "GameDataEvent.rules",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 248,
+      "symbol": "GameDataEvent.scoreHandicap",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 249,
+      "symbol": "GameDataEvent.scorePasses",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 250,
+      "symbol": "GameDataEvent.scorePrisoners",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 251,
+      "symbol": "GameDataEvent.scoreStones",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 252,
+      "symbol": "GameDataEvent.scoreTerritory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 253,
+      "symbol": "GameDataEvent.scoreTerritoryInSeki",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 254,
+      "symbol": "GameDataEvent.startTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 255,
+      "symbol": "GameDataEvent.strictSekiMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 256,
+      "symbol": "GameDataEvent.superkoAlgorithm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 257,
+      "symbol": "GameDataEvent.timeControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 258,
+      "symbol": "GameDataEvent.whiteMustPassLast",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 259,
+      "symbol": "GameDataEvent.whitePlayerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 260,
+      "symbol": "GameDataEvent.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 264,
+      "symbol": "GameDataEvent.ConditionalMovesSpec.moveNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 265,
+      "symbol": "GameDataEvent.ConditionalMovesSpec.moves",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 271,
+      "symbol": "GameClockEvent",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 272,
+      "symbol": "GameClockEvent.blackPlayerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 273,
+      "symbol": "GameClockEvent.blackTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 274,
+      "symbol": "GameClockEvent.currentPlayer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 275,
+      "symbol": "GameClockEvent.expiration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 276,
+      "symbol": "GameClockEvent.expirationDelta",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 277,
+      "symbol": "GameClockEvent.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 278,
+      "symbol": "GameClockEvent.lastMove",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 279,
+      "symbol": "GameClockEvent.now",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 280,
+      "symbol": "GameClockEvent.pause",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 281,
+      "symbol": "GameClockEvent.pauseDelta",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 282,
+      "symbol": "GameClockEvent.pausedSince",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 283,
+      "symbol": "GameClockEvent.startMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 284,
+      "symbol": "GameClockEvent.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 285,
+      "symbol": "GameClockEvent.whitePlayerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 286,
+      "symbol": "GameClockEvent.whiteTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 288,
+      "symbol": "GameClockEvent.Pause",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 289,
+      "symbol": "GameClockEvent.Pause.pauseControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 290,
+      "symbol": "GameClockEvent.Pause.paused",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 291,
+      "symbol": "GameClockEvent.Pause.pausedSince",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 299,
+      "symbol": "StoneColor.black",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 300,
+      "symbol": "StoneColor.white",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 317,
+      "symbol": "MoveSpec.point",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 318,
+      "symbol": "MoveSpec.duration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 323,
+      "symbol": "ConditionalMove.move",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 324,
+      "symbol": "ConditionalMove.response",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 326,
+      "symbol": "ConditionalMove.Response",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 327,
+      "symbol": "ConditionalMove.Response.move",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 328,
+      "symbol": "ConditionalMove.Response.next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 337,
+      "symbol": "Speed.blitz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 338,
+      "symbol": "Speed.normal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 339,
+      "symbol": "Speed.correspondence",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 344,
+      "symbol": "Ruleset.aga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 345,
+      "symbol": "Ruleset.chinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 346,
+      "symbol": "Ruleset.ing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 347,
+      "symbol": "Ruleset.japanese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 348,
+      "symbol": "Ruleset.korean",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 349,
+      "symbol": "Ruleset.nz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 354,
+      "symbol": "SuperkoAlgorithm.ssk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 359,
+      "symbol": "Phase.play",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 360,
+      "symbol": "Phase.stoneRemoval",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 361,
+      "symbol": "Phase.finished",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 366,
+      "symbol": "Outcome.abandoned",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 367,
+      "symbol": "Outcome.cancelled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 368,
+      "symbol": "Outcome.disconnected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 369,
+      "symbol": "Outcome.disqualified",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 370,
+      "symbol": "Outcome.moderated",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 371,
+      "symbol": "Outcome.resigned",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 372,
+      "symbol": "Outcome.timeout",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 377,
+      "symbol": "PauseControl.stoneRemoval",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 382,
+      "symbol": "TimeControl.system",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 383,
+      "symbol": "TimeControl.speed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 384,
+      "symbol": "TimeControl.timeControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 385,
+      "symbol": "TimeControl.pauseOnWeekends",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 387,
+      "symbol": "TimeControl.initialTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 388,
+      "symbol": "TimeControl.mainTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 389,
+      "symbol": "TimeControl.maxTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 390,
+      "symbol": "TimeControl.periods",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 391,
+      "symbol": "TimeControl.periodTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 392,
+      "symbol": "TimeControl.perMove",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 393,
+      "symbol": "TimeControl.stonesPerPeriod",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 394,
+      "symbol": "TimeControl.timeIncrement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 395,
+      "symbol": "TimeControl.totalTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 400,
+      "symbol": "TimeSystem.fischer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 401,
+      "symbol": "TimeSystem.byoyomi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 402,
+      "symbol": "TimeSystem.simple",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 403,
+      "symbol": "TimeSystem.canadian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 404,
+      "symbol": "TimeSystem.absolute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 405,
+      "symbol": "TimeSystem.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 410,
+      "symbol": "TimeSystemSpec.blockTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 411,
+      "symbol": "TimeSystemSpec.movesLeft",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 412,
+      "symbol": "TimeSystemSpec.periodTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 413,
+      "symbol": "TimeSystemSpec.periods",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 414,
+      "symbol": "TimeSystemSpec.skipBonus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 415,
+      "symbol": "TimeSystemSpec.system",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 416,
+      "symbol": "TimeSystemSpec.thinkingTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 422,
+      "symbol": "TimeSystemOrInt.system(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Game.swift",
+      "line": 423,
+      "symbol": "TimeSystemOrInt.int(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 22,
+      "symbol": "NotificationConnect.auth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 23,
+      "symbol": "NotificationConnect.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 28,
+      "symbol": "NotificationDelete.auth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 29,
+      "symbol": "NotificationDelete.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 30,
+      "symbol": "NotificationDelete.notificationId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 38,
+      "symbol": "NotificationEvent.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 39,
+      "symbol": "NotificationEvent.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 42,
+      "symbol": "NotificationEvent.auxDelivered",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 43,
+      "symbol": "NotificationEvent.black",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 44,
+      "symbol": "NotificationEvent.gameId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 46,
+      "symbol": "NotificationEvent.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 47,
+      "symbol": "NotificationEvent.playerId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 48,
+      "symbol": "NotificationEvent.read",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 49,
+      "symbol": "NotificationEvent.readTimestamp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 50,
+      "symbol": "NotificationEvent.white",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 53,
+      "symbol": "NotificationEvent.outcome",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 55,
+      "symbol": "NotificationEvent.annulled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 56,
+      "symbol": "NotificationEvent.whiteLost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 57,
+      "symbol": "NotificationEvent.blackLost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 64,
+      "symbol": "NotificationType.aiReviewDone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 65,
+      "symbol": "NotificationType.challenge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 66,
+      "symbol": "NotificationType.friendAccepted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 67,
+      "symbol": "NotificationType.friendDeclined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 68,
+      "symbol": "NotificationType.friendRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 69,
+      "symbol": "NotificationType.gameDeclined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 70,
+      "symbol": "NotificationType.gameEnded",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 71,
+      "symbol": "NotificationType.gameEnteredStoneRemoval",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 72,
+      "symbol": "NotificationType.gameResumedFromStoneRemoval",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 73,
+      "symbol": "NotificationType.gameStarted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 74,
+      "symbol": "NotificationType.groupInvitation",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 75,
+      "symbol": "NotificationType.groupNews",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 76,
+      "symbol": "NotificationType.groupRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 77,
+      "symbol": "NotificationType.timecop",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 78,
+      "symbol": "NotificationType.tournamentEnded",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 79,
+      "symbol": "NotificationType.tournamentInvitation",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Notification.swift",
+      "line": 80,
+      "symbol": "NotificationType.tournamentStarted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 23,
+      "symbol": "UserMonitor.val",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 31,
+      "symbol": "UserState.val",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 38,
+      "symbol": "Player.accepted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 39,
+      "symbol": "Player.egf",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 41,
+      "symbol": "Player.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 42,
+      "symbol": "Player.professional",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 43,
+      "symbol": "Player.rank",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 44,
+      "symbol": "Player.ratings",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 45,
+      "symbol": "Player.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 50,
+      "symbol": "Ratings.overall",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 52,
+      "symbol": "Ratings.Overall",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 53,
+      "symbol": "Ratings.Overall.deviation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 54,
+      "symbol": "Ratings.Overall.gamesPlayed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 55,
+      "symbol": "Ratings.Overall.rating",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Messages/Player.swift",
+      "line": 56,
+      "symbol": "Ratings.Overall.volatility",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Types.swift",
+      "line": 21,
+      "symbol": "BoolOrInt.bool(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nickplatt/code/github/caipre/online-go/Sources/OnlineGo/Types.swift",
+      "line": 22,
+      "symbol": "BoolOrInt.int(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/nickplatt/code/github/caipre/online-go"
+}
