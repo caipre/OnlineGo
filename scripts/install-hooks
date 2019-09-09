@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+readonly root_dir="$(readlink -f $(dirname $0)/..)"
+cp -furvs "${root_dir}/hooks/"* "${root_dir}/.git/hooks/"

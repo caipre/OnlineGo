@@ -1,0 +1,8 @@
+---
+module: OnlineGo
+author: Nick Platt
+github_url: https://github.com/caipre/online-go
+
+theme: fullwidth
+
+clean: yes
